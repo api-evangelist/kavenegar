@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kavenegar is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kavenegar.com/
+Kavenegar provides SMS, voice, and verification services via a RESTful API for developers in Iran and globally. Their platform offers high‑throughput messaging, multi‑language support, and detailed delivery reports, enabling businesses to integrate reliable communication channels into applications, notifications, and marketing campaigns.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kavenegar.com/)
+- [Support](https://kavenegar.com/support/about)
+- [GitHub](https://github.com/kavenegar)
+- [Status](https://status.kavenegar.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kavenegar/](https://apis.io/providers/kavenegar/).
